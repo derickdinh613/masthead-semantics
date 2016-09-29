@@ -6,7 +6,7 @@ The Solar System
 [Gas giants]
 [Dwarf planets]
 [Asteroids]
-[Comets]
+[Comets]T
 
 ---
 
